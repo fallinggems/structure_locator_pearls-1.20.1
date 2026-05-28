@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "minecraft:netherrack"
+    },
+    "X": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "pattern": [
+    " W ",
+    "WXW",
+    " W "
+  ],
+  "result": {
+    "item": "structurelocatorpearls:nether_eye"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "minecraft:nether_bricks"
+    },
+    "X": {
+      "item": "minecraft:magma_block"
+    }
+  },
+  "pattern": [
+    " W ",
+    "WXW",
+    " W "
+  ],
+  "result": {
+    "item": "structurelocatorpearls:bastion_eye"
+  },
+  "show_notification": true
+}
