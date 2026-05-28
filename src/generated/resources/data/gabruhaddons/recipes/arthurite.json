@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "minecraft:magma_block"
+    },
+    "S": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "pattern": [
+    " M ",
+    "MSM",
+    " M "
+  ],
+  "result": {
+    "item": "gabruhaddons:arthurite"
+  },
+  "show_notification": true
+}

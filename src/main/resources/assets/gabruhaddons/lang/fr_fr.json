@@ -1,0 +1,37 @@
+{
+  "item.gabruhaddons.arthurite": "Gemme ardente",
+  "item.gabruhaddons.arthurite_lvl2": "Gemme ardente II",
+  "item.gabruhaddons.arthurite_lvl3": "Gemme ardente III",
+  "item.gabruhaddons.mathite": "Gemme renforcée",
+  "item.gabruhaddons.mathite_lvl2": "Gemme renforcée II",
+  "item.gabruhaddons.mathite_lvl3": "Gemme renforcée III",
+  "item.gabruhaddons.armanite": "Gemme altérée",
+  "item.gabruhaddons.armanite_lvl2": "Gemme altérée II",
+  "item.gabruhaddons.armanite_lvl3": "Gemme altérée III",
+  "item.gabruhaddons.gabite": "Gemme aérée",
+  "item.gabruhaddons.gabite_lvl2": "Gemme aérée II",
+  "item.gabruhaddons.gabite_lvl3": "Gemme aérée III",
+  "item.gabruhaddons.rubenite": "Gemme collante",
+  "item.gabruhaddons.rubenite_lvl2": "Gemme collante II",
+  "item.gabruhaddons.rubenite_lvl3": "Gemme collante III",
+  "item.gabruhaddons.wind_shard": "Fragment de vent",
+  "item.gabruhaddons.burning_shard": "Fragment brulant",
+  "item.gabruhaddons.strong_shard": "Fragment resistant",
+  "item.gabruhaddons.spider_shard": "Fragment arachnoïde",
+  "item.gabruhaddons.unstable_shard": "Fragment instable",
+  "item.gabruhaddons.nether_eye": "Oeil ardent",
+  "item.gabruhaddons.bastion_eye": "Oeil de Piglin",
+
+  "effect.gabruhaddons.spider_touch": "Toucher d'araignée",
+  "effect.gabruhaddons.levitation_touch": "Toucher lévitant",
+  "effect.gabruhaddons.poison_touch": "Toucher venimeux",
+  "effect.gabruhaddons.airborne": "Dans les airs",
+  "effect.gabruhaddons.aerodynamic": "Aerodynamique",
+  "effect.gabruhaddons.hot": "G chaud",
+  "effect.gabruhaddons.armor_melt": "Armure en fusion",
+  "effect.gabruhaddons.consumed": "Éteint",
+  "effect.gabruhaddons.ferocity": "Férocité",
+
+
+  "itemGroup.gabruh_tab": "Gabruh Addons"
+}

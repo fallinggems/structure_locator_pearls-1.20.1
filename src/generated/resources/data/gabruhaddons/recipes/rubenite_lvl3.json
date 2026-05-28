@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "gabruhaddons:spider_shard"
+    },
+    "@": {
+      "item": "minecraft:chainmail_boots"
+    },
+    "E": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "S": {
+      "item": "minecraft:shulker_box"
+    },
+    "X": {
+      "item": "gabruhaddons:rubenite_lvl2"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "EXE",
+    "#@#"
+  ],
+  "result": {
+    "item": "gabruhaddons:rubenite_lvl3"
+  },
+  "show_notification": true
+}

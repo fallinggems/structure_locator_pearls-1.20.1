@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:iron_block"
+    },
+    "X": {
+      "item": "gabruhaddons:mathite"
+    }
+  },
+  "pattern": [
+    "DSD",
+    "SXS",
+    "DSD"
+  ],
+  "result": {
+    "item": "gabruhaddons:mathite_lvl2"
+  },
+  "show_notification": true
+}

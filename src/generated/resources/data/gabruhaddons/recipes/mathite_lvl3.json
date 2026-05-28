@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "gabruhaddons:strong_shard"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "S": {
+      "item": "minecraft:shield"
+    },
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "X": {
+      "item": "gabruhaddons:mathite_lvl2"
+    }
+  },
+  "pattern": [
+    "#T#",
+    "DXD",
+    "#S#"
+  ],
+  "result": {
+    "item": "gabruhaddons:mathite_lvl3"
+  },
+  "show_notification": true
+}

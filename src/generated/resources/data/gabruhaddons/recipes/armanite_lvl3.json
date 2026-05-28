@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "gabruhaddons:unstable_shard"
+    },
+    "A": {
+      "item": "minecraft:netherite_axe"
+    },
+    "C": {
+      "item": "minecraft:end_crystal"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "X": {
+      "item": "gabruhaddons:armanite_lvl2"
+    }
+  },
+  "pattern": [
+    "#C#",
+    "EXE",
+    "#A#"
+  ],
+  "result": {
+    "item": "gabruhaddons:armanite_lvl3"
+  },
+  "show_notification": true
+}
